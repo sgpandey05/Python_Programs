@@ -1,5 +1,3 @@
 # Python_Programs
 
-Contains the project i have completed after learning python programing.
-
-testing
+Contains the practice programs i have done during learning python programing.
